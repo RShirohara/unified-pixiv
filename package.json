@@ -38,8 +38,6 @@
     }
   },
   "jest": {
-    "preset": "ts-jest",
-    "testEnvironment": "node",
     "projects": [
       "./packages/*/package.json"
     ]
